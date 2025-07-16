@@ -77,7 +77,7 @@ Open homepage.html in your browser
 
 ---
 
-##🤝 Credits
+## 🤝 Credits
 
 Created with ❤️ by @SiAnakAlim and Yohanes Febryan Kana Nyola and Dewangga Mukti Wibawa
 This project was developed for a web design competition (Lomba WDC) 🌟
